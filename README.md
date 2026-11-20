@@ -10,7 +10,7 @@ Hitch is a  Collaborative Workspace Platform, leveraging the power of Next.js an
 * NextUI
 * Vercel
 
-## 🚀 Features
+## Features
 
 1. **Secure Authentication & Authorization:**
    - Robust user authentication and role-based authorization ensure a secure collaboration environment.
